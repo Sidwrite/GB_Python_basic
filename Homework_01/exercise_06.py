@@ -13,4 +13,3 @@ if  profit > 0:
     print("Прибыль на одного сотрудника равна:", "{:.2f}".format(profit / personal))
 else:
     print("Сумма убытков компании: ", profit * -1)
-

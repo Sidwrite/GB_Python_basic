@@ -22,6 +22,3 @@ while a <= b:
     a *=1.1
     day +=1
 print(day)
-
-
-
